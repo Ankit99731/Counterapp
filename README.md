@@ -1,6 +1,8 @@
 # Counter App
 
-![Counter App Preview]([(https://counterapp-eosin.vercel.app/)])
+
+![Counter App Preview](https://github.com/user-attachments/assets/4cfa69ae-a055-4d39-9e9d-a666c6da1499)
+
 
 ## 📋 Project Overview
 Welcome to the **Counter App**! This React-based web application is designed to provide a simple, user-friendly interface to increment, decrement, and reset a counter. Explore its interactive features and responsive design.
